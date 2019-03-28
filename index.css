@@ -4,6 +4,14 @@ footer {
 	padding: 10px;
 }
 
+.navigation {
+	background-color: black;
+	color: white;
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+}
+
+
 .parallax {
   background-image: url("code_review.jpeg");
   min-height: 700px; 
@@ -14,54 +22,7 @@ footer {
   display:block;
   width: 100%;
 }
-.parallax2 {
-  background-image: url("unity-screenshot.png");
-  min-height: 700px; 
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  display:block;
-  width: 100%;
-}
-.parallax3 {
 
-  background-image: url("VisualStudio.png");
-
-  min-height: 700px; 
-
-  background-attachment: fixed;
-
-  background-position: center;
-
-  background-repeat: no-repeat;
-
-  background-size: cover;
-
-  display:block;
-
-  width: 100%;
-
-}
-.parallax4 {
-
-  background-image: url("ms.jpg");
-
-  min-height: 700px; 
-
-  background-attachment: fixed;
-
-  background-position: center;
-
-  background-repeat: no-repeat;
-
-  background-size: cover;
-
-  display:block;
-
-  width: 100%;
-
-}
 .content {
 	height:1000px;
 	background-color:black;
