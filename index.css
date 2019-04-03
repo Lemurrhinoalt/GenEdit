@@ -37,6 +37,16 @@ footer {
   display:block;
   width: 100%;
 }
+.parallax3 {
+  background-image: url("PublicDomainCAS9");
+  min-height: 700px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display:block;
+  width: 100%;
+}
 
 .content {
 	background-color:#2a2a2a;
